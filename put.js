@@ -1,7 +1,5 @@
 // hi
-//brobrobrobro
-//noob jill
-//kuy hei
+//This is tring
 
 
 
